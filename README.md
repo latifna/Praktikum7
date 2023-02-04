@@ -74,3 +74,5 @@ def hapus(self):
 Output
 ![hapus](gambar/hapus.png)
 
+### Flowchart
+![flowchart](gambar/flowchart.jpg)
